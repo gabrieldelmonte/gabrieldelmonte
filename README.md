@@ -1,7 +1,7 @@
 ## Hey, Gabriel Del Monte here! 🌱 
 
 <p align="center">
-  I'm a <strong>Computer Engineering</strong> undergraduate student from <strong>UNIFEI - MG/BR</strong>. I have interests in the fields of <strong>embedded systems</strong>, <strong>embedded firmware</strong>, <strong>hardware</strong>, and <strong>artificial intelligence</strong>
+  I'm a <strong>Computer Engineering</strong> undergraduate student from <strong>UNIFEI - MG/BR</strong> 🇧🇷. I have interests in the fields of <strong>embedded systems</strong>, <strong>embedded firmware</strong>, <strong>hardware</strong>, and <strong>artificial intelligence</strong>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-### Emoji livro **Current learning**
+### 📚 **Current learning**
 
  - <img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f980.gif" alt="Crab"> Currently learning Rust
 
