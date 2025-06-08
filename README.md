@@ -1,26 +1,26 @@
 ## Hey, Gabriel Del Monte here! 🌱 
 
 <p align="center">
-  I'm a <strong>Computer Engineering</strong> undergraduate student from <strong>UNIFEI - MG/BR</strong> 🇧🇷. I have interests in the fields of <strong>embedded systems</strong>, <strong>embedded firmware</strong>, <strong>hardware</strong>, and <strong>artificial intelligence</strong>
+  I'm a <strong>Computer Engineering</strong> undergraduate student from <strong>UNIFEI - MG/BR</strong>. I have interests in the fields of <strong>embedded systems</strong>, <strong>embedded firmware</strong>, <strong>hardware</strong>, and <strong>artificial intelligence</strong>
 </p>
 
 ---
 
 ### 🚀 **Current projects**
 
-- <img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/26a1.gif" alt="High voltage"> Since 2023, I'm a CNPq Scientific Initiation scholar, working with power electronics, microcontrollers, and AI
+- <img align="left" width="25" height="25" style="margin-right:8px" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/26a1.gif" alt="High voltage"> Since 2023, I'm a CNPq Scientific Initiation scholar, working with power electronics, microcontrollers, and AI
 
-- <img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> I’m part of the [**Black Bee Drones**](https://www.instagram.com/blackbeedrones/) team, contributing to the **Hardware** division in autonomous drone development
+- <img align="left" width="25" height="25" style="margin-right:8px" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> I’m part of the [**Black Bee Drones**](https://www.instagram.com/blackbeedrones/) team, contributing to the **Hardware** division in autonomous drone development
 
-- <img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f916.gif" alt="Robot"> I’m the Vice-General Director of [**Fundação Asimo**](https://www.instagram.com/fundacaoasimo/), a social impact project that promotes technology education
+- <img align="left" width="25" height="25" style="margin-right:8px"  src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f916.gif" alt="Robot"> I’m the Vice-General Director of [**Fundação Asimo**](https://www.instagram.com/fundacaoasimo/), a social impact project that promotes technology education
 
 ---
 
 ### 📚 **Current learning**
 
- - <img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f980.gif" alt="Crab"> Currently learning Rust
+ - <img align="left" width="25" height="25" style="margin-right:8px"  src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f980.gif" alt="Crab"> Currently learning Rust
 
- - <img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f415.gif" alt="Beagle"> Diving deeper into Embedded Linux development using a BeagleBoard
+ - <img align="left" width="25" height="25" style="margin-right:8px"  src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f415.gif" alt="Beagle"> Diving deeper into Embedded Linux development using a BeagleBoard
 
 ---
 
